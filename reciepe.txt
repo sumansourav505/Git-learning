@@ -6,3 +6,5 @@ MENU:
 3.Mixveg
 4.Paneer masala
 5.Mushroom Chilly
+6.Sandwitch
+7.Burger
